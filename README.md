@@ -4,7 +4,7 @@
 
 The taxi company collected historical data on taxi orders at airports. To attract more drivers during rush hours, we need to predict the number of taxi orders for the next hour.
 
-# Project requirements:
+# Project Requirements:
 
 1. Upload the data and resample for one hour.
 
